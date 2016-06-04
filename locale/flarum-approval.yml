@@ -9,7 +9,7 @@ flarum-approval:
 
     # These translations are used in the Permissions page of the admin interface.
     permissions:
-      approve_posts_label: Approve posts
+      approve_posts_label: Setujui post
       reply_without_approval_label: Reply without approval
 
   # Translations in this namespace are used by the forum user interface.
@@ -17,8 +17,8 @@ flarum-approval:
 
     # These translations are displayed in the post header.
     post:
-      awaiting_approval_text: Awaiting approval
+      awaiting_approval_text: Menunggu persetujuan
 
     # These translations are used by the post control buttons.
     post_controls:
-      approve_button: Approve
+      approve_button: Setujui
